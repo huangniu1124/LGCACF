@@ -1,0 +1,2 @@
+embed_size=64, lr=0.005, regs=1e-4, layers=4, aspect=2, droprate=0
+    [69] {'precision': array([0.00869053, 0.00583601]), 'recall': array([0.06705912, 0.11153325]), 'ndcg': array([0.03776036, 0.04943135]), 'auc': 0.8401583241091767}

@@ -1,0 +1,3 @@
+embed_size=64, lr=0.005, regs=1e-4, layers=3, aspest=3, droprate=0
+    Best Iter=[92] {'precision': array([0.01783198, 0.01235512]), 'recall': array([0.06273741, 0.10768927]), 'ndcg': array([0.04712675, 0.06263996]), 'auc': 0.7882360314224797}
+
